@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/secound-app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/secound-app/static/js/main.d92517b3.chunk.js",
+    "main.js.map": "/secound-app/static/js/main.d92517b3.chunk.js.map",
+    "runtime-main.js": "/secound-app/static/js/runtime-main.af4637b7.js",
+    "runtime-main.js.map": "/secound-app/static/js/runtime-main.af4637b7.js.map",
+    "static/js/2.4d9fead2.chunk.js": "/secound-app/static/js/2.4d9fead2.chunk.js",
+    "static/js/2.4d9fead2.chunk.js.map": "/secound-app/static/js/2.4d9fead2.chunk.js.map",
+    "index.html": "/secound-app/index.html",
+    "precache-manifest.01f125de7c0b5af8cbcc153a38793d23.js": "/secound-app/precache-manifest.01f125de7c0b5af8cbcc153a38793d23.js",
+    "service-worker.js": "/secound-app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/secound-app/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4d9fead2.chunk.js.LICENSE.txt": "/secound-app/static/js/2.4d9fead2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af4637b7.js",
+    "static/js/2.4d9fead2.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d92517b3.chunk.js"
+  ]
+}
